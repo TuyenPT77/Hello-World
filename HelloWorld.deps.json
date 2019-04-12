@@ -1,12 +1,12 @@
 {
   "runtimeTarget": {
-    "name": ".NETCoreApp,Version=v2.1/linux-x64",
+    "name": ".NETCoreApp,Version=v2.1/centos.7-x64",
     "signature": "1a79708b2400206e57b089b93b5826261e32c14a"
   },
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.1": {},
-    ".NETCoreApp,Version=v2.1/linux-x64": {
+    ".NETCoreApp,Version=v2.1/centos.7-x64": {
       "HelloWorld/1.0.0": {
         "dependencies": {
           "Microsoft.NETCore.App": "2.1.4"
